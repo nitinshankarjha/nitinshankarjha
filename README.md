@@ -6,7 +6,7 @@ I'm an undergraduate chemistry student exploring the intersection of molecules a
 - 🌱 **Learning:** Quantum computing frameworks and automating workflows with Python and Linux.
 - 💻 **Tools of the trade:** Gaussian 16, ORCA, GaussView, and PyMOL.
 - 🎯 **Future goals:** Gearing up for IIT JAM 2027 and pursuing advanced research.
-- ⚡ **Fun fact:** When I'm not optimizing molecules or running simulations, I'm probably writing rap lyrics or producing music covers!## Hi there 👋
+- ⚡ **Fun fact:** When I'm not optimizing molecules or running simulations, I'm probably writing rap lyrics or producing music covers!##
 
 <!--
 **nitinshankarjha/nitinshankarjha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
